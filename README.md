@@ -58,7 +58,13 @@ https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 ##  Files Included
 - `Air BnB Full Project.twb`
-
+- `README.md`
+- `Dashboard.png`
+- `Average Price Per Bedroom.png`
+- `Distinct Count Of Bedroom Listing.png`
+- `Price By Zipcode.png`
+- `Price Per Zipcode.png`
+- `Revenue Per year.png`
 ---
 
 ##  Learning Outcomes
